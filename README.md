@@ -14,3 +14,5 @@ Thank you very much to everyone that participated!
 3) QUBO's ~ https://github.com/jamessaslow/sqe-quantum-hackathon-2025/blob/main/3)%20Qubos.%20(Solution).ipynb
 
 4) Quantum Error Correction ~ https://github.com/jamessaslow/sqe-quantum-hackathon-2025/blob/main/4)%20Quantum%20Error%20Correction.%20(Solution).ipynb
+
+5) Quantum Brain Teasers ~ https://github.com/jamessaslow/sqe-quantum-hackathon-2025/blob/main/5)%20Quantum%20Brain%20Teasers.%20(Solution).ipynb
