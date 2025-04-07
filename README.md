@@ -4,5 +4,5 @@
 
 __________________________________________________________________________________________________________________________________
 
-This repository contains Jupyter Notebook exersize & solutions as a part of the Quantum Hackathon 2025 event (See the files in the repository).
+This repository contains Jupyter Notebook exercise & solutions as a part of the Quantum Hackathon 2025 event (See the files in the repository).
 Thank you very much to everyone that participated! 
