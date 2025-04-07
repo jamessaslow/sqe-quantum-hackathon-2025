@@ -8,4 +8,4 @@ Thank you very much to everyone that participated!
  
 1) Transmon Qubit Simulator - https://github.com/jamessaslow/sqe-quantum-hackathon-2025/blob/main/1)%20Transmon%20Qubit%20Simulator.%20(Solution).ipynb
 
-2) [Gate Decomposition](https://github.com/jamessaslow/sqe-quantum-hackathon-2025/blob/main/2%20Gate%20Decomposition.%20(Solution).ipynb)
+2) Gate Decomposition - https://github.com/jamessaslow/sqe-quantum-hackathon-2025/blob/main/2%20Gate%20Decomposition.%20(Solution).ipynb
