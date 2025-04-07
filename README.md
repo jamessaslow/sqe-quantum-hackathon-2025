@@ -1,0 +1,1 @@
+# sqe-quantum-hackathon-2025
